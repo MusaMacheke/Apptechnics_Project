@@ -1,6 +1,6 @@
 # location_find
 
-A new Flutter project.
+A new Apptechnics Simple Flutter project.
 
 ## Getting Started
 
